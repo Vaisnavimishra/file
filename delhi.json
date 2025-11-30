@@ -1,0 +1,281 @@
+{
+    "city": "Delhi",
+    "source": "https://www.numbeo.com/cost-of-living/in/Delhi",
+    "sections": [
+        {
+            "section": "Other",
+            "items": [
+                {
+                    "item": "Meal at an Inexpensive Restaurant",
+                    "price": "500.00 ₹"
+                },
+                {
+                    "item": "Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",
+                    "price": "2,000.00 ₹"
+                },
+                {
+                    "item": "Combo Meal at McDonald's (or Equivalent Fast-Food Meal)",
+                    "price": "350.00 ₹"
+                },
+                {
+                    "item": "Domestic Draft Beer (0.5 Liter)",
+                    "price": "200.00 ₹"
+                },
+                {
+                    "item": "Imported Beer (0.33 Liter Bottle)",
+                    "price": "300.00 ₹"
+                },
+                {
+                    "item": "Cappuccino (Regular Size)",
+                    "price": "201.49 ₹"
+                },
+                {
+                    "item": "Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",
+                    "price": "39.74 ₹"
+                },
+                {
+                    "item": "Bottled Water (0.33 Liter)",
+                    "price": "15.31 ₹"
+                },
+                {
+                    "item": "Milk (Regular, 1 Liter)",
+                    "price": "67.67 ₹"
+                },
+                {
+                    "item": "Fresh White Bread (500 g Loaf)",
+                    "price": "50.34 ₹"
+                },
+                {
+                    "item": "White Rice (1 kg)",
+                    "price": "74.75 ₹"
+                },
+                {
+                    "item": "Eggs (12, Large Size)",
+                    "price": "96.98 ₹"
+                },
+                {
+                    "item": "Local Cheese (1 kg)",
+                    "price": "419.41 ₹"
+                },
+                {
+                    "item": "Chicken Fillets (1 kg)",
+                    "price": "326.72 ₹"
+                },
+                {
+                    "item": "Buffalo Round or Equivalent Back Leg Red Meat (1 kg)",
+                    "price": "552.38 ₹"
+                },
+                {
+                    "item": "Apples (1 kg)",
+                    "price": "173.27 ₹"
+                },
+                {
+                    "item": "Bananas (1 kg)",
+                    "price": "69.80 ₹"
+                },
+                {
+                    "item": "Oranges (1 kg)",
+                    "price": "96.84 ₹"
+                },
+                {
+                    "item": "Tomatoes (1 kg)",
+                    "price": "47.76 ₹"
+                },
+                {
+                    "item": "Potatoes (1 kg)",
+                    "price": "33.33 ₹"
+                },
+                {
+                    "item": "Onions (1 kg)",
+                    "price": "41.31 ₹"
+                },
+                {
+                    "item": "Lettuce (1 Head)",
+                    "price": "50.55 ₹"
+                },
+                {
+                    "item": "Bottled Water (1.5 Liter)",
+                    "price": "29.33 ₹"
+                },
+                {
+                    "item": "Bottle of Wine (Mid-Range)",
+                    "price": "900.00 ₹"
+                },
+                {
+                    "item": "Domestic Beer (0.5 Liter Bottle)",
+                    "price": "159.14 ₹"
+                },
+                {
+                    "item": "Imported Beer (0.33 Liter Bottle)",
+                    "price": "234.62 ₹"
+                },
+                {
+                    "item": "Cigarettes (Pack of 20, Marlboro)",
+                    "price": "340.00 ₹"
+                },
+                {
+                    "item": "One-Way Ticket (Local Transport)",
+                    "price": "38.00 ₹"
+                },
+                {
+                    "item": "Monthly Public Transport Pass (Regular Price)",
+                    "price": "1,000.00 ₹"
+                },
+                {
+                    "item": "Taxi Start (Standard Tariff)",
+                    "price": "75.00 ₹"
+                },
+                {
+                    "item": "Taxi 1 km (Standard Tariff)",
+                    "price": "25.00 ₹"
+                },
+                {
+                    "item": "Taxi 1 Hour Waiting (Standard Tariff)",
+                    "price": "100.00 ₹"
+                },
+                {
+                    "item": "Gasoline (1 Liter)",
+                    "price": "98.84 ₹"
+                },
+                {
+                    "item": "Volkswagen Golf 1.5 (or Equivalent New Compact Car)",
+                    "price": "1,350,000.00 ₹"
+                },
+                {
+                    "item": "Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car)",
+                    "price": "2,039,656.25 ₹"
+                },
+                {
+                    "item": "Basic Utilities for 85 m2Apartment (Electricity, Heating, Cooling, Water, Garbage)",
+                    "price": "5,983.87 ₹"
+                },
+                {
+                    "item": "Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",
+                    "price": "388.81 ₹"
+                },
+                {
+                    "item": "Broadband Internet (Unlimited Data, 60 Mbps or Higher)",
+                    "price": "739.85 ₹"
+                },
+                {
+                    "item": "Monthly Fitness Club Membership",
+                    "price": "1,853.23 ₹"
+                },
+                {
+                    "item": "Tennis Court Rental (1 Hour, Weekend)",
+                    "price": "857.11 ₹"
+                },
+                {
+                    "item": "Cinema Ticket (International Release)",
+                    "price": "500.00 ₹"
+                },
+                {
+                    "item": "Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",
+                    "price": "6,347.78 ₹"
+                },
+                {
+                    "item": "International Primary School, Annual Tuition per Child",
+                    "price": "169,545.45 ₹"
+                },
+                {
+                    "item": "Jeans (Levi's 501 or Similar)",
+                    "price": "2,431.40 ₹"
+                },
+                {
+                    "item": "Summer Dress in a Chain Store (e.g. Zara or H&M)",
+                    "price": "2,834.38 ₹"
+                },
+                {
+                    "item": "Nike Running Shoes (Mid-Range)",
+                    "price": "5,028.57 ₹"
+                },
+                {
+                    "item": "Men's Leather Business Shoes",
+                    "price": "4,190.91 ₹"
+                },
+                {
+                    "item": "1 Bedroom Apartment in City Centre",
+                    "price": "22,057.14 ₹"
+                },
+                {
+                    "item": "1 Bedroom Apartment Outside of City Centre",
+                    "price": "13,117.65 ₹"
+                },
+                {
+                    "item": "3 Bedroom Apartment in City Centre",
+                    "price": "58,906.25 ₹"
+                },
+                {
+                    "item": "3 Bedroom Apartment Outside of City Centre",
+                    "price": "33,133.33 ₹"
+                },
+                {
+                    "item": "Price per Square Meter to Buy Apartment in City Centre",
+                    "price": "186,049.70 ₹"
+                },
+                {
+                    "item": "Price per Square Meter to Buy Apartment Outside of Centre",
+                    "price": "102,145.64 ₹"
+                },
+                {
+                    "item": "Average Monthly Net Salary (After Tax)",
+                    "price": "55,206.11 ₹"
+                },
+                {
+                    "item": "Annual Mortgage Interest Rate (20-Year Fixed, in %)",
+                    "price": "9.19"
+                }
+            ]
+        },
+        {
+            "section": "Prices in Delhi",
+            "items": [
+                {
+                    "item": "Description:",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "section": "Prices in Delhi",
+            "items": [
+                {
+                    "item": "Cost of Living inJhajjar, Haryana",
+                    "price": "59.95 km"
+                },
+                {
+                    "item": "Cost of Living inHapur",
+                    "price": "63.73 km"
+                },
+                {
+                    "item": "Cost of Living inBulandshahr",
+                    "price": "90.46 km"
+                },
+                {
+                    "item": "Cost of Living inShadipur Julana, Haryana",
+                    "price": "126.25 km"
+                },
+                {
+                    "item": "Cost of Living inDeoband",
+                    "price": "166.32 km"
+                },
+                {
+                    "item": "Cost of Living inDeeg",
+                    "price": "178.07 km"
+                },
+                {
+                    "item": "Cost of Living inChirawa",
+                    "price": "186.94 km"
+                },
+                {
+                    "item": "Cost of Living inChandausi",
+                    "price": "192.35 km"
+                },
+                {
+                    "item": "Cost of Living inJhunjhunu",
+                    "price": "215.24 km"
+                }
+            ]
+        }
+    ]
+}

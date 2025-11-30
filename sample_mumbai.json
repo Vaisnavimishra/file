@@ -1,0 +1,49 @@
+{
+    "city": "Mumbai",
+    "source": "https://www.numbeo.com/cost-of-living/in/Mumbai",
+    "sections": [
+        {
+            "section": "Restaurants",
+            "items": [
+                {
+                    "item": "Meal, Inexpensive Restaurant",
+                    "price": "₹300.00"
+                },
+                {
+                    "item": "Cappuccino (regular)",
+                    "price": "₹162.50"
+                }
+            ]
+        },
+        {
+            "section": "Markets",
+            "items": [
+                {
+                    "item": "Milk (regular), (1 liter)",
+                    "price": "₹65.00"
+                },
+                {
+                    "item": "Rice (white), (1kg)",
+                    "price": "₹58.00"
+                },
+                {
+                    "item": "Eggs (regular) (12)",
+                    "price": "₹75.00"
+                }
+            ]
+        },
+        {
+            "section": "Transportation",
+            "items": [
+                {
+                    "item": "One-way Ticket (Local Transport)",
+                    "price": "₹20.00"
+                },
+                {
+                    "item": "Taxi Start (Normal Tariff)",
+                    "price": "₹30.00"
+                }
+            ]
+        }
+    ]
+}

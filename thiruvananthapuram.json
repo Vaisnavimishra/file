@@ -1,0 +1,277 @@
+{
+    "city": "Thiruvananthapuram",
+    "source": "https://www.numbeo.com/cost-of-living/in/Thiruvananthapuram",
+    "sections": [
+        {
+            "section": "Other",
+            "items": [
+                {
+                    "item": "Meal at an Inexpensive Restaurant",
+                    "price": "250.00 ₹"
+                },
+                {
+                    "item": "Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",
+                    "price": "1,200.00 ₹"
+                },
+                {
+                    "item": "Combo Meal at McDonald's (or Equivalent Fast-Food Meal)",
+                    "price": "300.00 ₹"
+                },
+                {
+                    "item": "Domestic Draft Beer (0.5 Liter)",
+                    "price": "150.00 ₹"
+                },
+                {
+                    "item": "Imported Beer (0.33 Liter Bottle)",
+                    "price": "250.00 ₹"
+                },
+                {
+                    "item": "Cappuccino (Regular Size)",
+                    "price": "150.00 ₹"
+                },
+                {
+                    "item": "Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",
+                    "price": "31.43 ₹"
+                },
+                {
+                    "item": "Bottled Water (0.33 Liter)",
+                    "price": "17.50 ₹"
+                },
+                {
+                    "item": "Milk (Regular, 1 Liter)",
+                    "price": "52.36 ₹"
+                },
+                {
+                    "item": "Fresh White Bread (500 g Loaf)",
+                    "price": "47.71 ₹"
+                },
+                {
+                    "item": "White Rice (1 kg)",
+                    "price": "58.01 ₹"
+                },
+                {
+                    "item": "Eggs (12, Large Size)",
+                    "price": "86.67 ₹"
+                },
+                {
+                    "item": "Local Cheese (1 kg)",
+                    "price": "675.72 ₹"
+                },
+                {
+                    "item": "Chicken Fillets (1 kg)",
+                    "price": "330.86 ₹"
+                },
+                {
+                    "item": "Buffalo Round or Equivalent Back Leg Red Meat (1 kg)",
+                    "price": "471.17 ₹"
+                },
+                {
+                    "item": "Apples (1 kg)",
+                    "price": "218.35 ₹"
+                },
+                {
+                    "item": "Bananas (1 kg)",
+                    "price": "65.16 ₹"
+                },
+                {
+                    "item": "Oranges (1 kg)",
+                    "price": "110.51 ₹"
+                },
+                {
+                    "item": "Tomatoes (1 kg)",
+                    "price": "51.04 ₹"
+                },
+                {
+                    "item": "Potatoes (1 kg)",
+                    "price": "50.24 ₹"
+                },
+                {
+                    "item": "Onions (1 kg)",
+                    "price": "55.24 ₹"
+                },
+                {
+                    "item": "Lettuce (1 Head)",
+                    "price": "50.92 ₹"
+                },
+                {
+                    "item": "Bottled Water (1.5 Liter)",
+                    "price": "27.83 ₹"
+                },
+                {
+                    "item": "Bottle of Wine (Mid-Range)",
+                    "price": "757.12 ₹"
+                },
+                {
+                    "item": "Domestic Beer (0.5 Liter Bottle)",
+                    "price": "158.00 ₹"
+                },
+                {
+                    "item": "Imported Beer (0.33 Liter Bottle)",
+                    "price": "289.16 ₹"
+                },
+                {
+                    "item": "Cigarettes (Pack of 20, Marlboro)",
+                    "price": "330.00 ₹"
+                },
+                {
+                    "item": "One-Way Ticket (Local Transport)",
+                    "price": "20.00 ₹"
+                },
+                {
+                    "item": "Monthly Public Transport Pass (Regular Price)",
+                    "price": "300.00 ₹"
+                },
+                {
+                    "item": "Taxi Start (Standard Tariff)",
+                    "price": "85.00 ₹"
+                },
+                {
+                    "item": "Taxi 1 km (Standard Tariff)",
+                    "price": "25.00 ₹"
+                },
+                {
+                    "item": "Taxi 1 Hour Waiting (Standard Tariff)",
+                    "price": "200.00 ₹"
+                },
+                {
+                    "item": "Gasoline (1 Liter)",
+                    "price": "104.86 ₹"
+                },
+                {
+                    "item": "Volkswagen Golf 1.5 (or Equivalent New Compact Car)",
+                    "price": "1,000,000.00 ₹"
+                },
+                {
+                    "item": "Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car)",
+                    "price": "2,566,666.67 ₹"
+                },
+                {
+                    "item": "Basic Utilities for 85 m2Apartment (Electricity, Heating, Cooling, Water, Garbage)",
+                    "price": "2,824.07 ₹"
+                },
+                {
+                    "item": "Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",
+                    "price": "325.69 ₹"
+                },
+                {
+                    "item": "Broadband Internet (Unlimited Data, 60 Mbps or Higher)",
+                    "price": "801.42 ₹"
+                },
+                {
+                    "item": "Monthly Fitness Club Membership",
+                    "price": "1,060.00 ₹"
+                },
+                {
+                    "item": "Tennis Court Rental (1 Hour, Weekend)",
+                    "price": "810.00 ₹"
+                },
+                {
+                    "item": "Cinema Ticket (International Release)",
+                    "price": "250.00 ₹"
+                },
+                {
+                    "item": "Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",
+                    "price": "3,200.00 ₹"
+                },
+                {
+                    "item": "International Primary School, Annual Tuition per Child",
+                    "price": "212,500.00 ₹"
+                },
+                {
+                    "item": "Jeans (Levi's 501 or Similar)",
+                    "price": "1,815.05 ₹"
+                },
+                {
+                    "item": "Summer Dress in a Chain Store (e.g. Zara or H&M)",
+                    "price": "1,692.98 ₹"
+                },
+                {
+                    "item": "Nike Running Shoes (Mid-Range)",
+                    "price": "3,333.46 ₹"
+                },
+                {
+                    "item": "Men's Leather Business Shoes",
+                    "price": "2,315.71 ₹"
+                },
+                {
+                    "item": "1 Bedroom Apartment in City Centre",
+                    "price": "15,800.00 ₹"
+                },
+                {
+                    "item": "1 Bedroom Apartment Outside of City Centre",
+                    "price": "8,800.00 ₹"
+                },
+                {
+                    "item": "3 Bedroom Apartment in City Centre",
+                    "price": "29,600.00 ₹"
+                },
+                {
+                    "item": "3 Bedroom Apartment Outside of City Centre",
+                    "price": "18,500.00 ₹"
+                },
+                {
+                    "item": "Price per Square Meter to Buy Apartment in City Centre",
+                    "price": "56,510.53 ₹"
+                },
+                {
+                    "item": "Price per Square Meter to Buy Apartment Outside of Centre",
+                    "price": "32,291.73 ₹"
+                },
+                {
+                    "item": "Average Monthly Net Salary (After Tax)",
+                    "price": "20,600.00 ₹"
+                },
+                {
+                    "item": "Annual Mortgage Interest Rate (20-Year Fixed, in %)",
+                    "price": "11.00"
+                }
+            ]
+        },
+        {
+            "section": "Prices in Thiruvananthapuram",
+            "items": [
+                {
+                    "item": "Description:",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "section": "Prices in Thiruvananthapuram",
+            "items": [
+                {
+                    "item": "Cost of Living inKochi",
+                    "price": "205.93 km"
+                },
+                {
+                    "item": "Cost of Living inMadurai",
+                    "price": "258.29 km"
+                },
+                {
+                    "item": "Cost of Living inThrissur",
+                    "price": "283.65 km"
+                },
+                {
+                    "item": "Cost of Living inAravakurichi",
+                    "price": "364.39 km"
+                },
+                {
+                    "item": "Cost of Living inPudukkottai",
+                    "price": "370.32 km"
+                },
+                {
+                    "item": "Cost of Living inRamanathapuram",
+                    "price": "387.15 km"
+                },
+                {
+                    "item": "Cost of Living inCoimbatore",
+                    "price": "387.77 km"
+                },
+                {
+                    "item": "Cost of Living inTiruchirapalli (Trichy)",
+                    "price": "393.88 km"
+                }
+            ]
+        }
+    ]
+}
